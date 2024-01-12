@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("#fast-search").mouseover(function(){
+        $("#fast-search-div").stop().slideDown();
+        $(".fast-search-div").hide();
+    });
+    $("#fast-search").mouseout(function(){
+        $("#fast-search-div").stop().slideUp();
+    });
+});

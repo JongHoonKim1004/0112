@@ -1,0 +1,38 @@
+@charset "utf-8";
+* {font-family: '맑은 고딕','Malgun Gothic',Helvetica,AppleSDGothicNeo,sans-serif;;}
+a {text-decoration: none;}
+hr {display: none;}
+
+
+/*   slider-section     */
+#slider-section {width:1200px; height:423px; margin:10px auto; background-color: brown; }
+
+
+/*   secondary-section 기본    */
+.secondary-section {width:1200px; height:390px; margin:10px auto; border:3px dashed black;}
+
+
+/*   multi-select-section 기본*/
+#multi-select-section {width:1200px; height:690px; margin:10px auto; background-color: beige;}
+
+/*    suggest-section    */
+#suggest-section {width:1200px; height:250px; margin:10px auto; background-color: greenyellow;}
+
+/*    youtube-section     */
+#youtube-section {width:1200px; height:600px; margin:10px auto; background-color: purple;}
+
+/*    card-section     */
+#card-section {width:1200px; height:613px; margin:10px auto; background-color: salmon;}
+
+/*    yes-ad-section    */
+#yes-ad-section {width:1200px; height:80px; margin:0 auto;}
+#yes-ad-section > a {width:100%; height:100%;}
+#yes-ad-section > a > img {width:100%; height:100%;}
+
+/*    service-big-section 기본   */
+#service-big-section {width:100%; height:400px; margin:10px 0;}
+#service-section {width:1200px; height:240px; margin:10px auto; background-color: aqua;}
+#notice-section {width:1200px; height:80px; margin:10px auto; background-color: beige;}
+#event-section {width:1200px; height:80px; margin:10px auto 10px; background-color: blue;}
+
+
